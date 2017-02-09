@@ -24,5 +24,6 @@ _Requirement_
 * Cloud Computing (for database & web hosting)
  * CMS not required
 * Android Studio (for building .apk)
+ * .apk project require volley
 * NFC Tools - https://play.google.com/store/apps/details?id=com.wakdev.wdnfc (for creating an nfc tag)
 * Documentation (Instruction manual for app and web-management usage)
