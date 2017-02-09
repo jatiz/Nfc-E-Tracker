@@ -33,6 +33,7 @@ _NOTE_
 Username and password for the website are as follows
 
 [All password are stored with MD5 hashing. Lookup to the "User" table in the database for reference]
+
 Username : admin
 
 Password : admin
