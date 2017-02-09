@@ -27,3 +27,10 @@ _Requirement_
  * .apk project require volley
 * NFC Tools - https://play.google.com/store/apps/details?id=com.wakdev.wdnfc (for creating an nfc tag)
 * Documentation (Instruction manual for app and web-management usage)
+
+_NOTE_
+
+Username and password for the website are as follows
+
+Username : admin
+Password : admin
